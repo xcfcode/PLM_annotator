@@ -1,0 +1,10 @@
+six
+tqdm==4.30.0
+torch==1.2
+torchtext==0.4.0
+future
+configargparse
+tensorboard==1.14
+flask
+pyonmttok==1.*;platform_system=='Linux'
+PyYAML
