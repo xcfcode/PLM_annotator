@@ -1,6 +1,6 @@
 # PLM as an Annotator
 
-This is the **Pytorch** code for our **ACL21** paper **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization**.
+This is the **Pytorch** code for our **ACL21** paper **Language Model as an Annotator: Exploring DialoGPT for Dialogue Summarization** [arXiv](https://arxiv.org/abs/2105.12544).
 
 <p align="center">
   <img src="pic/main.png" width="750">
