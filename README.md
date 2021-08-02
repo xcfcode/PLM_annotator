@@ -6,6 +6,9 @@ This is the **Pytorch** code for our **ACL21** paper **Language Model as an Anno
   <img src="pic/main.png" width="750">
 </p>
 
+## Update
+2021-08-02 release [DialoGPT annotator](https://github.com/xcfcode/PLM_annotator/tree/main/annotator).
+
 ## Outputs
 Output summaries are available at [SAMSum](https://github.com/xcfcode/PLM_annotator/blob/main/bart/summaries/samsum.txt) and [AMI](https://github.com/xcfcode/PLM_annotator/blob/main/pgn/summaries/ami.txt).
 
